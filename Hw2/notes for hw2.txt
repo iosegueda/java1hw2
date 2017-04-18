@@ -1,0 +1,15 @@
+
+
+I need 
+-it to ask for a year
+-to determine if its a leap year
+	--if 
+	--else if
+	-else is just not a leapyear
+	--if -99 just quit on lyfe 
+-a loop
+	--figure this out
+-it stop when "-99" is entered 
+	--look back at bank assignment
+	
+ask for year 
